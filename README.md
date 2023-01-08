@@ -29,7 +29,7 @@ I am a web developer specializing in the MERN stack. I have really found a passi
 
 <p align="left"> <a href="https://www.github.com/Mohamed-Rifai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rifai-c-k-2158a1249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<h2>✌️I'm good in</h2>
+<h3>✌️I'm good in</h3>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -46,7 +46,7 @@ I am a web developer specializing in the MERN stack. I have really found a passi
 
 
 
-<h2>🤞What stats are saying</h2>
+<h3>🤞What stats are saying</h3>
 
 <a href="http://www.github.com/Mohamed-Rifai"><img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Rifai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Mohamed-Rifai's GitHub stats" /></a>
 
