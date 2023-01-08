@@ -46,7 +46,7 @@ I am a web developer specializing in the MERN stack. I have really found a passi
 
 
 
-<b>My GitHub Stats</b>
+<h4>🤞What stats are saying<h4>
 
 <a href="http://www.github.com/Mohamed-Rifai"><img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Rifai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Mohamed-Rifai's GitHub stats" /></a>
 
