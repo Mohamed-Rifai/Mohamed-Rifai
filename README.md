@@ -26,9 +26,10 @@ I am a web developer specializing in the MERN stack. I have really found a passi
 * 👯 I’m looking to collaborate on JavaScript, React, ..etc
 * 💬 Ask me about anything😄
 
-<p align="left"> <a href="https://www.github.com/Mohamed-Rifai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rifai-c-k-2158a1249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Skills
 
+<p align="left"> <a href="https://www.github.com/Mohamed-Rifai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rifai-c-k-2158a1249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+✌️I'm good in
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -44,7 +45,6 @@ I am a web developer specializing in the MERN stack. I have really found a passi
 
 
 
-### Badges
 
 <b>My GitHub Stats</b>
 
