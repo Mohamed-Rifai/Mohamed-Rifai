@@ -27,7 +27,7 @@ I am a web developer specializing in the MERN stack. I have really found a passi
 * 💬 Ask me about anything😄
 
 
-<p align="left"> <a href="https://www.github.com/Mohamed-Rifai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rifai-c-k-2158a1249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/rifai-c-k-2158a1249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <h3>✌️I'm good in</h3>
 
