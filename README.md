@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a web developer specializing in the MERN stack. I have really found a passion for web development. I have a strong understanding of web development techs like React, Node js, Express, and Mongo DB. I spend more time to improve my skills
 
-*  🔭 I’m currently working on [docsOn](https://github.com/Mohamed-Rifai/docsON)
+*  🔭 I’m currently working on [docsON](https://github.com/Mohamed-Rifai/docsON)
 * 🌱 I’m currently learning the core concepts in MERN
 * 👯 I’m looking to collaborate on JavaScript, React, ..etc
 * 💬 Ask me about anything😄
