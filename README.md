@@ -16,40 +16,66 @@ Here are some ideas to get you started:
 -->
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RIFAI
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm RIFAI
 =============================================================================================================================
 
-I am a web developer specializing in the MERN stack. I have really found a passion for web development. I have a strong understanding of web development techs like React, Node js, Express, and Mongo DB. I spend more time to improve my skills
+I am a MERN stack web developer. 
 
-*  🔭 I’m currently working on [docsON](https://github.com/Mohamed-Rifai/docsON)
-* 🌱 I’m currently learning the core concepts in MERN
-* 👯 I’m looking to collaborate on JavaScript, React, ..etc
-* 💬 Ask me about anything😄
+As a web developer, I possess a strong understanding of the latest technologies and have completed numerous projects demonstrating my proficiency. With a passion for coding and a desire for personal and professional growth, I am eager to leverage my skills to pursue opportunities for further growth and development as a developer
+
+- 🔭 I’m currently working on [docsON](https://github.com/Mohamed-Rifai/docsON) project
+- 🌱 I’m currently learning Nextjs and Typescript
+- 👯 I’m looking to collaborate on JavaScript, React, ..etc
+- 💬 Ask me about anything😄
+- 📫 Reach me [@rifai.dev](mailto:rifaeeckm@gmail.com)
+- ⚡ Fun fact I can code continuously more than I sleep
 
 
-<a href="https://www.linkedin.com/in/rifai-c-k-2158a1249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://twitter.com/rifai_dev">
+    <picture>
+      <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478611-dcb5caf8-8cdd-4f28-b394-8d05a70747b9.png">
+      <img  width="40" alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478615-d70d804b-bd10-42cc-944f-77c472361bfc.png">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/rifaick/">
+    <picture>
+      <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478596-ca5d3735-84ff-41c1-adda-0636638484e9.png">
+      <img  width="40" alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478603-cdf603dc-7583-452e-b658-576b5e0ca504.png">
+    </picture>
 
+  </a>
+  <a href="mailto:rifaeeckm@gmail.com">
+    <picture>
+      <source width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478606-af257735-4813-47c1-ac02-d6aedfa4f779.png">
+      <img alt="twitter" width="40" src="https://user-images.githubusercontent.com/64640025/209478608-011b55f7-40cd-43a5-8053-ae193a1badf3.png">
+    </picture>
+  </a>
+
+<br>
 <h3>✌️I'm good in</h3>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
-
-
-
-
-
-
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3>🤞What stats are saying</h3>
+<table>
+<tr>
+  <td>
+    <p align='center'>
+      <img alt="Rifai's streak" src='https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Rifai&stroke=14b8a6&background=000000&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true'>
+    </p>
+    <p align='center'>
+      <img alt="Rifai's status" src='https://github-readme-stats.vercel.app/api?username=Mohamed-Rifai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true'>
+    </p>
+  </td>
+  <td>
+    <p align='center'>
+      <img alt="Rifai's status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Rifai&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages">
+    </p>
+  </td>
+ </tr>
+</table>
 
-<a href="http://www.github.com/Mohamed-Rifai"><img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Rifai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Mohamed-Rifai's GitHub stats" /></a>
+<h3>🔗Tags that I can relate</h3>
 
-<a href="http://www.github.com/Mohamed-Rifai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Rifai&stroke=14b8a6&background=000000&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="https://github.com/Mohamed-Rifai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Rifai&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+`javascript` `typescript` `java` `nextjs` `html` `css` `bootstrap` `tailwind` `react` `redux` `materailui` `nodejs` `express` `handlebars` `webpack` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `postgresql` `aws ec2` `nginx` `figma` `illustrator` `photoshop`
